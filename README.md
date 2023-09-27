@@ -135,10 +135,9 @@ It's estimated that by the end of 2023, revenue will reach $392 billion.
 The exciting part is the prediction for the next 10 years (up to 2033).
 It suggests that in the next decade, the movie industry could generate a whopping $12 trillion in revenue.
 This is a significant and positive outlook for the movie industry, indicating substantial growth ahead.
-![](Next_10 years.11.png)
+![](https://github.com/ogeleka/Imdb_movies/blob/main/Next_10%20years.11.png)
 
-
-# 9. **How can you interact with the data?** **[interact here](https://public.tableau.com/app/profile/gideon.oluwafemi/viz/project_16933854279020/Story1?publish=ye)**
+# 9. **How can you interact with the data?** **[interact here](https://phttps://github.com/ogeleka/Imdb_movies/blob/main/Next_10%20years.11.pngublic.tableau.com/app/profile/gideon.oluwafemi/viz/project_16933854279020/Story1?publish=ye)**
  **Goal:** Create an interactive dashboard for users to explore and engage with the data.
 **Purpose:**
 The dashboard is designed to provide the audience with detailed insights into the dataset.
